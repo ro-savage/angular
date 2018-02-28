@@ -89,11 +89,13 @@ promise.then(() => {
 The following code snippets illustrate how the same kind of operation is defined using observables and promises.
 
 <table>
-  <th>
-    <td>Operation</td>
-    <td>Observable</td>
-    <td>Promise</td>
-  </th>
+  <thead>
+  <tr>
+    <th>Operation</th>
+    <th>Observable</th>
+    <th>Promise</th>
+  </tr>
+  </thead>
   <tr>
     <td>Creation</td>
     <td>
